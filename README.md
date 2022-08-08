@@ -49,7 +49,7 @@ Please cite the following paper if you use the code in any way.
   ```
   
 
-# Parameters
+## Parameters
 
 | name                | type  | options                                        | help                                                         |
 | ------------------- | ----- | ---------------------------------------------- | ------------------------------------------------------------ |
