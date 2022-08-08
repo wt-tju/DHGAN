@@ -1,4 +1,0 @@
-
-   Begin Time=2022-08-08 15:42:37.212414 | Model=hyperbolic Dataset=Toys_and_Games
-   sparse_emb_dim=10 hidden_dim=[5, 9, 15, 10] output_dim=64	
-Model=hyperbolic, Dataset=Toys_and_Games | epoch=0, batch=0 | loss=11.441020965576172, mrr=0.954200267791748	
