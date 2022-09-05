@@ -5,7 +5,7 @@
 ​		DHGAN is the code for our paper "Decoupled Hyperbolic Graph Attention Network for Modeling Substitutable and Complementary Item Relationships", which is published in CIKM 2022. 
 
 
-![The proposed framework](DHGAN_img.pdf)
+![The proposed framework](DHGAN_img.png)
 
 
 
